@@ -1,0 +1,11 @@
+{
+  "bom": [
+  	{
+  		"itemID": "iutuiitiutiutiuit",
+  		"itemDesc": "descrizione linea",
+  		"itemCost": 340,
+  		"itemType": "fixedvm",
+  		"itemConfig": {}
+	}
+]
+}
